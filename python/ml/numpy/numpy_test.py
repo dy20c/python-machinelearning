@@ -2,7 +2,6 @@
 import numpy as np
 
 #넘파이 array() 함수는 파이썬의 리스트와 같은 다양한 인자를 입력 받아서 ndarray로 변환하는 기능 수행
-
 array1 = np.array([1, 2, 3])
 print('array1 type:', type(array1))
 print('array1 array 형태:', array1.shape)
